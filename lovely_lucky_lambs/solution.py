@@ -5,7 +5,7 @@ def solution(total_lambs):
     max_hanchmen = max_hanchman_paid(total_lambs)
     diff_paid = min_henchmen - max_hanchmen
     return diff_paid
-    xw
+
 def min_hanchmen_paid(total_lambs):
     # helper variables
     a = 0
