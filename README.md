@@ -12,7 +12,7 @@
 
 - [en-route-salute](https://github.com/erik18xk/foo-bar/tree/master/en_route_salute)
 
-- [bomb-baby]()
+- [bomb-baby](https://github.com/erik18xk/foo-bar/tree/master/bomb_baby)
 
 I don't have the problem for the first challange, but was more a tutorial for understanding the logic, and was really easy to solve.
 
