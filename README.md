@@ -26,7 +26,7 @@ After you comple the level 3 the system will ask for your personal data
 
 - [free-bunny-prisoners](https://github.com/erik18xk/foo-bar/tree/master/free_the_bunny_prisoners)
 
-## What I've learned
+#### What I've learned
 
 For solving this problem I've used the pigeonhole rule.
 For getting the solution I've also used the combinations function ---> itertools library.
