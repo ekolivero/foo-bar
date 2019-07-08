@@ -1,4 +1,4 @@
-Free the Bunny Prisoners
+## Free the Bunny Prisoners
 ========================
 
 You need to free the bunny prisoners before Commander Lambda's space station explodes! Unfortunately, the commander was very careful with her highest-value prisoners - they're all held in separate, maximum-security cells. The cells are opened by putting keys into each console, then pressing the open button on each console simultaneously. When the open button is pressed, each key opens its corresponding lock on the cell. So, the union of the keys in all of the consoles must be all of the keys. The scheme may require multiple copies of one key given to different minions.
@@ -29,13 +29,13 @@ Finally, if you had 3 bunnies and required 2 of them to open the cell, then any 
   [1, 2],
 ]
 
-Languages
+#### Languages
 =========
 
 To provide a Python solution, edit solution.py
 To provide a Java solution, edit Solution.java
 
-Test cases
+#### Test cases
 ==========
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
