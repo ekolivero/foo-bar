@@ -22,7 +22,16 @@ After you comple the level 3 the system will ask for your personal data
 
 ![level-3-completed](https://github.com/erik18xk/foo-bar/blob/master/media/Screenshot%202019-07-05%20at%2012.02.51.png)
 
-### Level 4
+### Level 4.1
+
+- [free-bunny-prisoners](https://github.com/erik18xk/foo-bar/tree/master/free_the_bunny_prisoners)
+
+## What I've learned
+
+For solving this problem I've used the pigeonhole rule.
+For getting the solution I've also used the combinations function ---> itertools library.
+
+### Level 4.2
 
 Didn't request yet
 
